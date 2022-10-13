@@ -1,4 +1,4 @@
-Hi, i'm Diego <1>
+Hi, i'm Diego
 
 i'm a student at IES Alisal (Spain
 
